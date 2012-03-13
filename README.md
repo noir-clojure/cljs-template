@@ -7,9 +7,8 @@ A Leiningen template for Noir + ClojureScript projects.
 You will need either lein2 or [lein-newnew](https://github.com/Raynes/lein-newnew)
 
 ```bash
-lein plugin install cljs-template 0.1.2
+lein plugin install cljs-template 0.1.3
 lein new cljs-template my-awesome-project
-cd my-awesome-project/
 lein run
 ```
 

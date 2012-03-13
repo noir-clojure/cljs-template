@@ -1,4 +1,4 @@
-(defproject cljs-template "0.1.2"
+(defproject cljs-template "0.1.3"
   :description "A lein-newnew template for clojurescript projects"
   :url "http://github.com/ibdknox/cljs-template"
   :eval-in-leiningen true
