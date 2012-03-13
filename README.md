@@ -7,7 +7,10 @@ A Leiningen template for Noir + ClojureScript projects.
 ```bash
 lein plugin install cljs-template 0.1.0
 lein new cljs-template my-awesome-project
+lein run
 ```
+
+You now have a complete ClojureScript app, nothing more needed :)
 
 ## License
 
