@@ -2,16 +2,17 @@
 
 A Leiningen template for Noir + ClojureScript projects.
 
+**NOTE** cljs-template >= 0.1.5 uses the latest hiccup. For old hiccup, use 0.1.4.
+
 ## Usage
 
 You will need either lein2 or [lein-newnew](https://github.com/Raynes/lein-newnew)
 
 ```bash
-lein plugin install cljs-template 0.1.4
+lein plugin install cljs-template 0.1.5
 lein new cljs-template my-awesome-project
 lein run
 ```
-
 You now have a complete ClojureScript app, nothing more needed :)
 
 ## License

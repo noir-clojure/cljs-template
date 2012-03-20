@@ -1,7 +1,7 @@
 (ns {{name}}.views.common
   (:require [noir.cljs.core :as cljs])
   (:use [noir.core :only [defpartial]]
-        [hiccup.page-helpers :only [include-css html5]]))
+        [hiccup.page :only [include-css html5]]))
 
 (defpartial layout [& content]
             (html5
