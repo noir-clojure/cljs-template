@@ -2,7 +2,7 @@
   :description "FIXME: write this!"
   :url "http://exampl.com/FIXME"
   :dependencies [[org.clojure/clojure "1.4.0"]
-                 [noir-cljs "0.3.5"]
+                 [noir-cljs "0.3.7"]
                  [jayq "1.0.0"]
                  [fetch "0.1.0-alpha2" :exclusions [org.clojure/clojure]]
                  [crate "0.2.3"]
