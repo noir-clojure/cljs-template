@@ -3,7 +3,7 @@
             [clojure.browser.repl :as repl]
             [crate.core :as crate])
   (:use [jayq.core :only [$ append]])
-  (:use-macros [crate.macros :only [defpartial]]))
+  (:use-macros [crate.def-macros :only [defpartial]]))
 
 ;;************************************************
 ;; Dev stuff

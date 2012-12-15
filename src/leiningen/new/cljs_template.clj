@@ -20,4 +20,5 @@
              ["src/{{sanitized}}/views/common.clj" (render "common.clj" data)]
              ["src/{{sanitized}}/views/main.clj" (render "main.clj" data)]
              ["src/{{sanitized}}/server.clj" (render "server.clj" data)]
+             ["externs/jquery.js" (render "jquery.js")]
              )))
